@@ -14,3 +14,8 @@ Master Combined
 m1
 m2
 m3
+
+
+Local Computer reverted to m2 
+
+Remote Project also changed with new commit
