@@ -16,7 +16,7 @@ m1
 m2
 m3
 m4 - Master forward one more node
-
+m6 - delibate conflict
 
 Local Computer reverted to m2 
 
