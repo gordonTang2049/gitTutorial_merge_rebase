@@ -11,6 +11,10 @@ Master Combined
 
         m1 -> m2 -> m3 -> ?
 
+<<<<<<< HEAD
 m1
 m2
 m3
+=======
+
+>>>>>>> parent of ece6085... m2
