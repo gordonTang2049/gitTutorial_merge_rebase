@@ -11,10 +11,14 @@ Master Combined
 
         m1 -> m2 -> m3 -> ?
 
-<<<<<<< HEAD
+
 m1
 m2
 m3
-=======
 
->>>>>>> parent of ece6085... m2
+
+
+Local Computer reverted to m2 
+
+Remote Project also changed with new commit
+
